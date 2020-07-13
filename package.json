@@ -36,7 +36,8 @@
   "main": ".eslintrc.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OlgaShrir/EvgeniyKoltLaw.git"
+    // "url": "git+https://github.com/OlgaShrir/EvgeniyKoltLaw.git"
+    "url": "git+https://github.com/OlgaShrir/EvgeniyKoltLaw.github.io/tree/master/public"
   },
   "keywords": [],
   "author": "",
