@@ -7,9 +7,7 @@
     <AboutUs id="about" class="view"/>
     <ActivityFields id="fields" class="view"/>
     <ContactUs id="contact" class="view full"/>
-
-
-    
+   
   </div>
 </template>
 
