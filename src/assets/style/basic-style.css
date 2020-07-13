@@ -1,0 +1,10 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+h1, p, ul {
+  margin: 0;
+  padding: 0;
+}
+/*# sourceMappingURL=basic-style.css.map */
