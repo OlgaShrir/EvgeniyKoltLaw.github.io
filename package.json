@@ -36,8 +36,7 @@
   "main": ".eslintrc.js",
   "repository": {
     "type": "git",
-    // "url": "git+https://github.com/OlgaShrir/EvgeniyKoltLaw.git"
-    "url": "git+https://github.com/OlgaShrir/EvgeniyKoltLaw.github.io/tree/master/public"
+    "url": "git+https://github.com/OlgaShrir/EvgeniyKoltLaw.github.io/"
   },
   "keywords": [],
   "author": "",
@@ -46,6 +45,5 @@
     "url": "https://github.com/OlgaShrir/EvgeniyKoltLaw/issues"
   },
   "homepage": "https://github.com/OlgaShrir/EvgeniyKoltLaw.github.io/blob/master/public/index.html"
-  // "homepage": "https://olgashrir.github.io/EvgeniyKoltLaw.github.io/"
   
 }
